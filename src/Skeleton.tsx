@@ -1,4 +1,4 @@
-import { CSSProperties } from "react";
+import React, { CSSProperties } from "react";
 import styles from "./Skeleton.module.css";
 
 const Skeleton = ({ style }: { style: CSSProperties }) => {
